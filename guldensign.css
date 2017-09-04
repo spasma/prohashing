@@ -1,0 +1,27 @@
+
+@font-face{
+	font-family: 'guldensign';
+	src: url('guldensign.eot');
+	src: url('guldensign.eot?#iefix') format('embedded-opentype'),
+		 url('guldensign.woff') format('woff'),
+		 url('guldensign.ttf') format('truetype'),
+		 url('guldensign.svg#guldensignmedium') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.guldensign {
+	font-family: 'guldensign';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.guldensign:before {
+	content: "\0120";
+}

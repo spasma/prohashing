@@ -1,0 +1,86 @@
+SplineFontDB: 3.0
+FontName: guldensign
+FullName: Guldensign Font
+FamilyName: guldensign
+Weight: Medium
+Copyright: Created by Geert-Johan Riemer, with FontForge 2.0
+UComments: "2014-6-13: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -409
+UnderlineWidth: 204
+Ascent: 3277
+Descent: 819
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 856 819408617 7358118]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1402663073
+ModificationTime: 1404678802
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 369
+VLineGap: 369
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 369
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 38 38 13
+BeginPrivate: 0
+EndPrivate
+BeginChars: 1114112 1
+
+StartChar: Gdotaccent
+Encoding: 288 288 0
+Width: 4096
+VWidth: 0
+Flags: W
+HStem: 0 316<1043.15 1913.63> 1316 316<1475 2622> 2633 317<1043.15 1912.77>
+VStem: 0 316<1043.15 1906.2>
+LayerCount: 2
+Fore
+SplineSet
+1475 0 m 0
+ 660 0 0 660 0 1475 c 0
+ 0 2288 660 2950 1475 2950 c 0
+ 1882 2950 2250 2784 2518 2518 c 1
+ 2294 2294 l 1
+ 2084 2503 1794 2633 1475 2633 c 0
+ 835 2633 316 2114 316 1475 c 0
+ 316 835 835 316 1475 316 c 0
+ 2060 316 2545 751 2622 1316 c 1
+ 1475 1316 l 1
+ 1475 1632 l 1
+ 2633 1632 l 1
+ 2950 1632 l 1
+ 2950 1475 l 2
+ 2950 660 2288 0 1475 0 c 0
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
